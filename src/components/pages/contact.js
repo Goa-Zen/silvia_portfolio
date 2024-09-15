@@ -1,7 +1,5 @@
 import React from "react"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-// import EmailSubmit from "../contact/email-submit";
-// import Map from "../contact/contact-map";
 
 
 export default function () {
@@ -9,9 +7,7 @@ export default function () {
     <div className="contact-page-wrapper">
 
       <div className="left-column">
-        <EmailSubmit />
 
-        {/* <Map /> */}
       </div>
 
       <div className="right-column">
